@@ -1,3 +1,10 @@
 # VideoStamper
 Tool that gives time stamps where the searched text mentioned
-# In Progress
+# How To Use
+1- install all dependencies in requirements.txt
+2- download code folder
+3- run video_stampper.py file
+# Note:
+This code uses an undocumented part of the YouTube API, which is called by the YouTube web-client. So there is no guarantee that it won't stop working anytime soon, contact me if it does not work:)
+# Future Work:
+Building a website
